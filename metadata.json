@@ -1,0 +1,7 @@
+{
+  "name": "AI DFD Architect",
+  "description": "An intelligent tool that converts flowchart screenshots into professional Data Flow Diagrams (DFD) through conversational AI guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
