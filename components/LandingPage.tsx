@@ -58,7 +58,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart, onUpload, onCSV }) =
               Transform Ideas into <span className="text-blue-600 italic">Architecture</span>.
             </h1>
             <p className="text-xl text-slate-500 max-w-lg leading-relaxed font-medium">
-              Upload a screenshot or import a CSV. Our AI engine meticulously analyzes flows to build professional Data Flow Diagrams in seconds. <span style="color:blue">-Annamalai</span>
+              Upload a screenshot or import a CSV. Our AI engine meticulously analyzes flows to build professional Data Flow Diagrams in seconds.
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
               <button 
